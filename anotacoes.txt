@@ -1,0 +1,22 @@
+banco de dados: baixar knex (e usa o sqlite)
+
+npx knex migrate:make create_ongs (migration do banco de dados)
+npx knex migrate:latest (cria a tabela)
+
+lembrar/estudar status code
+
+feather icons, material icons (react-icons)
+
+react-router-dom usando o Link usa o spa
+
+
+expo-cli
+react navigation (ler docs)
+@react-navigation/stack
+
+expo docs
+expo-constants
+expo-mail-composer
+estudar sobre o scollar e carregar mais items enquanto a pagina desce
+
+instalar intl (para usar moeda)
